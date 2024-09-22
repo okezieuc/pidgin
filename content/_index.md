@@ -1,17 +1,12 @@
 ---
-title: My Site
+title: Pidgin Academy
 toc: false
 ---
 
-This is the landing page.
+Pidgin for people who speak English.
 
 ## Explore
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+{{< card link="docs/introduction" title="Guides" icon="book-open" >}}
 {{< /cards >}}
-
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
