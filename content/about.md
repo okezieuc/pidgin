@@ -3,4 +3,6 @@ title: About
 type: about
 ---
 
-This is the about page.
+i've always felt like i can explain the grammar of pidgin, so i decided to start this.
+
+— okezie
