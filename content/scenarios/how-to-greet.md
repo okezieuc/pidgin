@@ -13,7 +13,7 @@ The most common pidgin greeting for informal situations is "how far." This greet
 - with people one meets in casual (informal) situations (in the same way you would say "hi" to a person you just met)
 - as an acknowlegement to people you know (in the same way one would say hi to a friend they walk by on a college campus without necessarily having to say anything)
 
-The most common response to "how far" is "I dey." The literal translation of "I dey" is "I am." It is helpul to note that "I dey" neither implies that a person is doing well or not doing well. You have to rely on non-verbal cues that accompany an "I dey" to determine how a person is doing.
+The most common response to "how far" is "[[Objective Pronouns|I]] dey." The literal translation of "I dey" is "I am." It is helpul to note that "I dey" neither implies that a person is doing well or not doing well. You have to rely on non-verbal cues that accompany an "I dey" to determine how a person is doing.
 
 ## Good morning/afternoon/evening
 
