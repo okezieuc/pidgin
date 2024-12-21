@@ -10,6 +10,7 @@ To illustrate this, we will consider the constructions of English sentence "I wi
 | Past tense               | I ran.           | I run.            |
 | Simple present tense     | I run.           | I dey run.        |
 | Past perfect tense       | I had run.       | I bin run.        |
+
 Notice that, in the English language, to change the tense of the verb "to run," the verb gets modified. In pidgin, however, auxillary words like "go", "bin" and "dey", are placed next to verbs to indicate the time of an action.
 
 <!--
