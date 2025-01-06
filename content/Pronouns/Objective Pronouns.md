@@ -1,3 +1,17 @@
+---
+aliases:
+  - Me
+  - You
+  - Una
+  - Am
+  - Us
+  - Dem
+  - me
+  - you
+  - una
+  - am
+  - us
+---
 
 Objective pronouns are used when the person being refered to is the "receiver" of an action.
 
@@ -5,7 +19,7 @@ Below is a description of the equivalent subjective pronouns in pidgin
 - Me: Me
 - You (singular): You
 - You (plural): Una
-- Him / Her: Am
+- Him / Her / It: Am
 - Us: Us
 - Them: Dem
 

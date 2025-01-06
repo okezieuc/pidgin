@@ -1,10 +1,26 @@
+---
+aliases:
+  - I
+  - You
+  - Una
+  - E
+  - We
+  - They
+  - i
+  - you
+  - una
+  - e
+  - we
+  - they
+---
+
 Subjective pronouns are used when the person being referred to is the doer of an action.
 
 Below is a description of the equivalent subjective pronouns in pidgin
 - I: I
 - You (singular): You
 - You (plural): Una
-- He / She: E
+- He / She / It: E
 - We: We
 - They: They
 
