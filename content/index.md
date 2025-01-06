@@ -1,5 +1,6 @@
 ---
 title: The Book of Pidgin
+publish: "true"
 ---
 
 ## What is this?

@@ -2,6 +2,7 @@
 aliases:
   - The
   - the
+publish: "true"
 ---
 The Pidgin language has one definite article: "the." It is used with both proper and improper nouns under certain conditions.
 

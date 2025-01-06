@@ -11,6 +11,7 @@ aliases:
   - una
   - am
   - us
+publish: "true"
 ---
 
 Objective pronouns are used when the person being refered to is the "receiver" of an action.

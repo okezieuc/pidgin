@@ -12,6 +12,7 @@ aliases:
   - e
   - we
   - they
+publish: "true"
 ---
 
 Subjective pronouns are used when the person being referred to is the doer of an action.

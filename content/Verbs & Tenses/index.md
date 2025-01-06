@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 
 Verbs in Pidgin are non-inflective. This means that verbs are not modified to express tense. Instead, auxiliary words are placed in the context of verbs to indicate their tense.
 

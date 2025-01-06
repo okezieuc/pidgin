@@ -1,6 +1,7 @@
 ---
 aliases:
   - go
+publish: "true"
 ---
 The future tense is used when speaking about events that will in the future. The auxiliary verb "go" is used when talking about events that will happen in the future.
 

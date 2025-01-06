@@ -2,6 +2,7 @@
 aliases:
   - one
   - One
+publish: "true"
 ---
 Pidgin has one indefinite article: "one."
 
